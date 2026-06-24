@@ -35,7 +35,7 @@ Commissions and slippage included.
 
 ![Drawdown Profile](SystemResults/since%20'08%20-%20Benchmark%20-%20Drawdown%20-%20Trades%20Details/Drawdown%20Map%20(5%25).png)
 
-### Trade History
+## Trade History
 - Complete trade-by-trade export
 
 [View Full Trade List](SystemResults/since%20'08%20-%20Benchmark%20-%20Drawdown%20-%20Trades%20Details/All%20Trades%20(5%25%20RPT).csv)
