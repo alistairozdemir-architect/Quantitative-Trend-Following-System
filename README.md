@@ -25,11 +25,11 @@ Commissions and slippage included.
 
 ## Benchmark Comparison
 
-(benchmark grafiği)
+![Benchmark Comparison](SystemResults/since%20'08%20-%20Benchmark%20-%20Drawdown%20-%20Trades%20Details/Benchmark%20Comparison%20Map%20(5%25).png)
 
 ## Drawdown Profile
 
-(drawdown grafiği)
+![Drawdown Profile](SystemResults/since%20'08%20-%20Benchmark%20-%20Drawdown%20-%20Trades%20Details/Drawdown%20Map%20(5%25).png)
 
 ## Additional Test Windows
 
