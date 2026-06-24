@@ -23,3 +23,17 @@ Commissions and slippage included.
 | Profit-Loss Ratio | 2.33 |
 | Trades | 151 |
 
+## Benchmark Comparison
+
+(benchmark grafiği)
+
+## Drawdown Profile
+
+(drawdown grafiği)
+
+## Additional Test Windows
+
+- 2016–2026
+- 2020–2026
+
+Detailed statistics, trade logs and supporting materials are available in the repository folders.
