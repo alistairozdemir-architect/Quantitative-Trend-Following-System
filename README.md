@@ -3,9 +3,6 @@ Systematic trend-following system built with Python and backtested in QuantConne
 
 Long-only trend-following portfolio research for SPY and QQQ, developed in Python and QuantConnect.
 
-Period:
-2008–2026
-
 Benchmark:
 SPY + QQQ Equal Weight Buy & Hold
 
