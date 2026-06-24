@@ -22,3 +22,4 @@ Commissions and slippage included.
 | Win Rate | 65% |
 | Profit-Loss Ratio | 2.33 |
 | Trades | 151 |
+
